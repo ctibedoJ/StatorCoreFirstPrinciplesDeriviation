@@ -1,0 +1,2 @@
+# StatorCoreFirstPrinciplesDeriviation
+Geometric Universal Invariants
